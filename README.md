@@ -34,7 +34,7 @@ This project explores machine learning classification models to predict the like
 
 ### 1. Clone the repository
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone (https://github.com/chandana-hd/heart-disease-detection.git)
 cd heart-disease-detection
 ```
 
